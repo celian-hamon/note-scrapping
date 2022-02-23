@@ -1,0 +1,18 @@
+{
+    "airtableConf" : {
+        "token":"keyIZ1H0pEpr923PZ",
+        "baseId":"appTftHow3PXGgmC6",
+        "tableName":"NOTES"
+    },
+    "discordConf":{
+        "token":"OTQ1Mjg4NDA0Njk2OTg5NzE2.YhN-bg.ka-LqJy9u7wH9FNA45nIo-yTLls"
+    },
+    "databaseConf":{
+        "host":"127.0.0.1",
+        "user":"root",
+        "password":"toor",
+        "port":"3306",
+        "database":"pronote"
+    },
+    "sortingOrder":["CUBES Infra (groupe)","CUBES Infra (indiv)","CUBES IoT (groupe)","CUBES IoT (indiv)"]
+}
